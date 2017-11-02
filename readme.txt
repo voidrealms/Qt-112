@@ -1,0 +1,12 @@
+Code for video tutorial
+
+Title: C++ Qt 112 - Working with QuaZip and Zlib
+Published: 1/23/2012 5:09:50 PM
+Link: https://www.youtube.com/watch?v=bVqVR2V3n3M
+
+Description: Working with Zip files
+
+If you found this helpful, please consider donating: http://www.voidrealms.com
+
+If the code is missing its possible the tutorial had no code or the code is lost forever.
+Please contibute if you have a copy otherwise I may eventually re-write it.
